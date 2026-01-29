@@ -51,7 +51,7 @@ git clone  https://github.com/rohan2248/HTML-Resume-Assignment.git
 ---
 
 ## 3. Open the HTML file in your browser
-Double click on Resume.html and open it in browser.
+Right click on Resume.html and click on open with live server.
 
 ---
 
