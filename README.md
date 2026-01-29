@@ -29,7 +29,7 @@ It represents a personal portfolio/resume layout including skills, experience, p
 ## Screen Shot
 
 Screen shot the page
-![Preview](Screenshot (4).png)
+![Preview](resumeSS.png)
 
 ---
 
