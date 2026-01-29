@@ -34,7 +34,12 @@ Screen shot the page
 
 ---
 
-## ⚙️ Setup Instructions
+## Live preview link
+https://rohan2248.github.io/HTML-Resume-Assignment/
+
+---
+
+## ⚙️ Setup Instructions for Cloning the project locally
 
 Follow these steps to run the project locally:
 
@@ -54,6 +59,7 @@ git clone  https://github.com/rohan2248/HTML-Resume-Assignment.git
 Right click on Resume.html and then click on open with live server.
 
 ---
+
 
 
 
