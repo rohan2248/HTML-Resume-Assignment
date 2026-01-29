@@ -41,7 +41,7 @@ Follow these steps to run the project locally:
 ## 1. Clone the Repository
 
 ```bash
-# 1. Clone the repository
+# 1. Open VS code terminal and clone the repository
 git clone  https://github.com/rohan2248/HTML-Resume-Assignment.git
 ```
 ---
@@ -51,7 +51,7 @@ git clone  https://github.com/rohan2248/HTML-Resume-Assignment.git
 ---
 
 ## 3. Open the HTML file in your browser
-Double click on Resume.html and it will open in browser.
+Right click on Resume.html and then click on open with live server.
 
 ---
 
