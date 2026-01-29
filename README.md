@@ -43,9 +43,9 @@ Follow these steps to run the project locally:
 # 1. Clone the repository
 git clone  https://github.com/rohan2248/HTML-Resume-Assignment.git
 ```
-# 2. Go inside the project folder
+###2. Go inside the project folder
 
-# 3. Open the HTML file in your browser
+###3. Open the HTML file in your browser
 Double click on Resume.html and open it in browser.
 
 
